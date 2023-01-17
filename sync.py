@@ -13,8 +13,8 @@ TODO:
 
 ARCHIVE_PATH = 'archive.pk'
 BIB_PATH = 'references.bib'
-NOTION_TOKEN = "secret_jiuWXlAS4kSf1c1ZL3ZbkIKTH1qR4tNqbRJU8zTAsO1"
-DATABASE_IDENTIFIER = "6d27f24948624dd09a81ceb4acd7e007"
+NOTION_TOKEN = 'secret_jiuWXlAS4kSf1c1ZL3ZbkIKTH1qR4tNqbRJU8zTAsO1'
+DATABASE_IDENTIFIER = '6d27f24948624dd09a81ceb4acd7e007'
 
 
 def notion_add_entry(
