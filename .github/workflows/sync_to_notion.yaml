@@ -27,8 +27,8 @@ jobs:
 
       - name: Update archive
         run: 
-            git config --global user.email "s18568un@gmail.com"
-            git config --global user.name "ukyonagata0105"
+            git config --global user.email s18568un@gmail.com
+            git config --global user.name ukyonagata0105
             git add .
             git commit -am 'Update archive.'
         shell: bash
