@@ -14,7 +14,7 @@ TODO:
 ARCHIVE_PATH = 'archive.pk'
 BIB_PATH = 'references.bib'
 NOTION_TOKEN = os.environ['NOTION_TOKEN']
-DATABASE_IDENTIFIER = os.environ['DATABASE_IDENTIFIER']
+DATABASE_IDENTIFIER = 6d27f24948624dd09a81ceb4acd7e007
 
 
 def notion_add_entry(
